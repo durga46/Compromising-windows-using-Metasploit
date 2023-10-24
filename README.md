@@ -77,4 +77,3 @@ The Metasploit framework is used to compromise windows and is examined successfu
 
 
 
-The Metasploit framework is used to compromise windows and is examined successfully.
