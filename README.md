@@ -1,8 +1,7 @@
-# Compromising-windows-using-Metasploit
-Compromising windows using Metasploit
+## EX.NO : 06
+## DATE : 12.10.2023
+# <p align="center"> Compromising-windows-using-Metasploit</p>
 
-# Metasploit
-Compromising windows using Metasploit
 
 ## AIM:
 To Compromise windows using Metasploit .
